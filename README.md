@@ -1,43 +1,16 @@
-# Lucky
-
-Like-minded friends:
-  Hi! Here are some descriptions of this program.
+# SSAIT2FCM
   
   The title of the manuscript: Remote Sensing Image Classification Based on Semi-Supervised Adaptive Interval Type-2 Fuzzy C-Means algorithm
   Authors: Jindong Xu, Guozheng Feng
+  School of Computer and Control Engineering, YanTai University, Yantai, China 264005
   
-  How to use the program:
-  FCMClust.m: Program entry.
-  initfcm.m: Center and membership initialization.
-  cu.m: Interval of membership.
-  stepfcm.m: Iteration process.
-  data_Mread.m: Read the data.
+ =======================  How to use the program:
+  FCMClust.m: program entry.
+  initfcm.m: center and membership initialization.
+  cu.m: interval of membership.
+  stepfcm.m: iteration process.
+  data_Mread.m: read the data.
   
-  ICY: an interface between COMSOL Multiphysics and YADE
+  SSAIT2FCM: an semi-supervised fuzzy c-means algorithm for remote sensing image classification.
 
-ICY README
 
-======================= Project description
-
-ICY is an interface between COMSOL Multiphysics and YADE. The interface is based on a serie of JAVA classes.
-
-The interface was first verified to simulate the terminal velocity of a sphere falling in water. The source codes are provided in the Verification folder.
-
-The interface was then improved to model an internal or contact erosion test. The source codes are presented in the Applicationtest folder.
-Installing and running the tests
-
-The prerequisits, and the installation and execution instructions are explained in the ICY instruction guide.
-Test data
-
-Analytical results and experimental data are presented in the TestData folder.
-Authors
-
-Pouyan Pirnia pouyan.pirnia@gmail.com
-
-François Duhaime francois.duhaime@etsmtl.ca
-
-Yannic Ethier yannic.ethier@estmtl.ca
-
-Jean-Sébastien Dubé jean-sebastien.dube@etsmtl.ca
-
-Laboratory for Geotechnical and Geoenvironmental Engineering (LG2) École de technologie supérieure 1100 Notre-Dame Ouest, Montreal, Quebec, H3C 1K3, Canada
