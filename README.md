@@ -8,7 +8,7 @@ Like-minded friends:
   
   How to use the program:
   FCMClust.m: Program entry.
-  initfcm.m: Center and membership initialization。
+  initfcm.m: Center and membership initialization.
   cu.m: Interval of membership.
   stepfcm.m: Iteration process.
   data_Mread.m: Read the data.
